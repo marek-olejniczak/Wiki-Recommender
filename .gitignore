@@ -3,7 +3,6 @@
 *.pyo
 *.pyd
 *.csv
-!/data/wiki_articles_corpus.csv
 *.joblib
 *.log
 .env
